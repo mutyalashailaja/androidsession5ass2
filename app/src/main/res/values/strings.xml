@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OptionsMenu</string>
+    <string name="item1">computer</string>
+    <string name="item2">Gamepad</string>
+    <string name="item3">camera</string>
+    <string name="item4">video</string>
+    <string name="item5">email</string>
+</resources>
